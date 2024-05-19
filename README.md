@@ -5,5 +5,5 @@ original and sources on [xda developers](https://xdaforums.com/t/tool-android-im
 ### installation
 #### warning: AIK compiled only for musl and the teams here will only be under Alpine Linux 3.19
 
-1. installing dependencies: ```apk add libgcc git bash```
+1. installing dependencies: ```apk add libgcc git bash openjdk8 cpio```
 2. cloning a repository: ```git clone https://github.com/Artem-coderh/AIK-armhf```
